@@ -45,7 +45,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i001_th.jpg\" alt=\"THE WOLF AND THE KID\">"
+    "innerHtml": "THE WOLF AND THE KID"
   },
   {
     "tag": "hr",
@@ -104,6 +104,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Young Crab And His Mother"
   },
@@ -129,6 +133,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -244,6 +252,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Eagle And The Jackdaw"
   },
@@ -273,6 +285,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -325,6 +341,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -385,7 +405,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i010_th.jpg\" alt=\"THE TOWN MOUSE AND THE COUNTRY MOUSE\">"
+    "innerHtml": "THE TOWN MOUSE AND THE COUNTRY MOUSE"
   },
   {
     "tag": "hr",
@@ -428,6 +448,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Bundle Of Sticks"
   },
@@ -453,6 +477,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -525,6 +553,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -668,6 +700,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Plane Tree"
   },
@@ -728,6 +764,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Sheep And The Pig"
   },
@@ -753,7 +793,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i019_th.jpg\" alt=\"THE SHEEP AND THE PIG\">"
+    "innerHtml": "THE SHEEP AND THE PIG"
   },
   {
     "tag": "hr",
@@ -805,6 +845,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -912,6 +956,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Wolf And His Shadow"
   },
@@ -1000,6 +1048,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Boys And The Frogs"
   },
@@ -1028,6 +1080,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Crow And The Pitcher"
   },
@@ -1049,6 +1105,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1088,6 +1148,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Ass Carrying The Image"
   },
@@ -1109,6 +1173,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1136,6 +1204,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Two Goats"
   },
@@ -1160,6 +1232,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Ass And The Load Of Salt"
   },
@@ -1181,7 +1257,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i031_th.jpg\" alt=\"THE ASS AND THE LOAD OF SALT\">"
+    "innerHtml": "THE ASS AND THE LOAD OF SALT"
   },
   {
     "tag": "hr",
@@ -1221,6 +1297,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1268,6 +1348,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Monkey And The Camel"
   },
@@ -1297,6 +1381,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1468,6 +1556,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Wolf And The Sheep"
   },
@@ -1492,6 +1584,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Hares And The Frogs"
   },
@@ -1513,6 +1609,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1541,7 +1641,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "The hungry Stork was much displeased at the trick, but he was a calm, even-tempered fellow and saw no good in flying into a rage. Instead, not long afterward, he invited the Fox to dine with him in turn. The Fox arrived promptly at the time that had been set, and the Stork served a fish dinner that had a very appetizing smell. But it was  served in a tall jar with a very narrow neck. The Stork could easily get at the food with his long bill, but all the Fox could do was to lick the outside of the jar, and sniff at the delicious odor. And when the Fox lost his temper, the Stork said calmly:"
+    "innerHtml": "The hungry Stork was much displeased at the trick, but he was a calm, even-tempered fellow and saw no good in flying into a rage. Instead, not long afterward, he invited the Fox to dine with him in turn. The Fox arrived promptly at the time that had been set, and the Stork served a fish dinner that had a very appetizing smell. But it was served in a tall jar with a very narrow neck. The Stork could easily get at the food with his long bill, but all the Fox could do was to lick the outside of the jar, and sniff at the delicious odor. And when the Fox lost his temper, the Stork said calmly:"
   },
   {
     "tag": "p",
@@ -1549,6 +1649,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1585,6 +1689,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1652,6 +1760,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Peacock"
   },
@@ -1669,7 +1781,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i042_th.jpg\" alt=\"THE PEACOCK\">"
+    "innerHtml": "THE PEACOCK"
   },
   {
     "tag": "hr",
@@ -1704,6 +1816,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Wolf And The Lean Dog"
   },
@@ -1713,7 +1829,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Let me remind your lordship,\" said the Dog, his words interrupted now and then as he dodged a snap of the Wolf's teeth, \"how unpleasant it would be to eat me  now. Look at my ribs. I am nothing but skin and bone. But let me tell you something in private. In a few days my master will give a wedding feast for his only daughter. You can guess how fine and fat I will grow on the scraps from the table. <em>Then</em> is the time to eat me.\""
+    "innerHtml": "\"Let me remind your lordship,\" said the Dog, his words interrupted now and then as he dodged a snap of the Wolf's teeth, \"how unpleasant it would be to eat me now. Look at my ribs. I am nothing but skin and bone. But let me tell you something in private. In a few days my master will give a wedding feast for his only daughter. You can guess how fine and fat I will grow on the scraps from the table. <em>Then</em> is the time to eat me.\""
   },
   {
     "tag": "p",
@@ -1741,6 +1857,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -1872,6 +1992,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Monkey And The Dolphin"
   },
@@ -1996,6 +2120,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Dogs And The Fox"
   },
@@ -2092,6 +2220,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Fox And The Leopard"
   },
@@ -2113,7 +2245,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i053_th.jpg\" alt=\"THE FOX AND THE LEOPARD\">"
+    "innerHtml": "THE FOX AND THE LEOPARD"
   },
   {
     "tag": "hr",
@@ -2156,6 +2288,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Cock And The Fox"
   },
@@ -2173,7 +2309,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Your family and mine and  all other animals have agreed to forget their differences and live in peace and friendship from now on forever. Just think of it! I simply cannot wait to embrace you! Do come down, dear friend, and let us celebrate the joyful event.\""
+    "innerHtml": "\"Your family and mine and all other animals have agreed to forget their differences and live in peace and friendship from now on forever. Just think of it! I simply cannot wait to embrace you! Do come down, dear friend, and let us celebrate the joyful event.\""
   },
   {
     "tag": "p",
@@ -2209,6 +2345,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2269,6 +2409,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2333,6 +2477,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2412,6 +2560,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Wolf And The Shepherd"
   },
@@ -2468,6 +2620,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Farmer And The Cranes"
   },
@@ -2485,7 +2641,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "At first the Cranes flew away in great terror. But they soon began to see that none of them ever got hurt. They did not even hear the noise of stones whizzing through the air, and as for words,  they would kill nobody. At last they paid no attention whatever to the Farmer."
+    "innerHtml": "At first the Cranes flew away in great terror. But they soon began to see that none of them ever got hurt. They did not even hear the noise of stones whizzing through the air, and as for words, they would kill nobody. At last they paid no attention whatever to the Farmer."
   },
   {
     "tag": "p",
@@ -2501,6 +2657,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2572,6 +2732,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Goose And The Golden Egg"
   },
@@ -2593,7 +2757,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i063_th.jpg\" alt=\"THE GOOSE AND THE GOLDEN EGG\">"
+    "innerHtml": "THE GOOSE AND THE GOLDEN EGG"
   },
   {
     "tag": "hr",
@@ -2629,6 +2793,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2684,6 +2852,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Sick Stag"
   },
@@ -2697,6 +2869,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2756,6 +2932,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Cat And The Birds"
   },
@@ -2805,6 +2985,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2873,6 +3057,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -2968,6 +3156,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Fox And The Crab"
   },
@@ -3056,6 +3248,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Eagle And The Beetle"
   },
@@ -3077,7 +3273,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i073_th.jpg\" alt=\"THE EAGLE AND THE BEETLE\">"
+    "innerHtml": "THE EAGLE AND THE BEETLE"
   },
   {
     "tag": "hr",
@@ -3109,6 +3305,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3208,6 +3408,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Wolf And The Shepherd"
   },
@@ -3253,6 +3457,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3329,7 +3537,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Hardly anything,\" answered the House Dog. \"Chase people who carry canes, bark at beggars,  and fawn on the people of the house. In return you will get tidbits of every kind, chicken bones, choice bits of meat, sugar, cake, and much more beside, not to speak of kind words and caresses.\""
+    "innerHtml": "\"Hardly anything,\" answered the House Dog. \"Chase people who carry canes, bark at beggars, and fawn on the people of the house. In return you will get tidbits of every kind, chicken bones, choice bits of meat, sugar, cake, and much more beside, not to speak of kind words and caresses.\""
   },
   {
     "tag": "p",
@@ -3377,6 +3585,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3449,6 +3661,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3544,6 +3760,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Rose And The Butterfly"
   },
@@ -3569,7 +3789,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i083_th.jpg\" alt=\"THE ROSE AND THE BUTTERFLY\">"
+    "innerHtml": "THE ROSE AND THE BUTTERFLY"
   },
   {
     "tag": "hr",
@@ -3616,6 +3836,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Boy And The Nettle"
   },
@@ -3657,6 +3881,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3756,6 +3984,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Fox And The Monkey"
   },
@@ -3829,6 +4061,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -3984,6 +4220,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Shepherd And The Lion"
   },
@@ -4044,6 +4284,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Hare And The Tortoise"
   },
@@ -4077,7 +4321,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i093_th.jpg\" alt=\"THE HARE AND THE TORTOISE\">"
+    "innerHtml": "THE HARE AND THE TORTOISE"
   },
   {
     "tag": "p",
@@ -4396,6 +4640,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Man And The Satyr"
   },
@@ -4437,7 +4685,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-aesop-for-children/master/assets/images/i102_th.jpg\" alt=\"THE MAN AND THE SATYR\">"
+    "innerHtml": "THE MAN AND THE SATYR"
   },
   {
     "tag": "p",
@@ -4485,6 +4733,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -4620,6 +4872,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Mole And His Mother"
   },
@@ -4696,6 +4952,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Hare And His Ears"
   },
@@ -4729,6 +4989,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
@@ -4840,6 +5104,10 @@
     "innerHtml": ""
   },
   {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "The Fighting Cocks And The Eagle"
   },
@@ -4865,6 +5133,10 @@
   },
   {
     "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
     "innerHtml": ""
   },
   {
